@@ -12,7 +12,7 @@ const db = mysql.createConnection(
     {
         host: 'localhost',
         // Your MySQL user,
-        user: 'root@localhost',
+        user: 'root',
         //Your MYSQL pass,
         password: 'Homebrewed2003!',
         database: 'election'
